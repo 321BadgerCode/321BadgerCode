@@ -1,16 +1,54 @@
-### Hi there 👋
+<!--Badger-->
 
-<!--
-**321BadgerCode/321BadgerCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Badger Code
 
-Here are some ideas to get you started:
+```
+  ____            _                    ____          _      
+ | __ )  __ _  __| | __ _  ___ _ __   / ___|___   __| | ___ 
+ |  _ \ / _` |/ _` |/ _` |/ _ \ '__| | |   / _ \ / _` |/ _ \
+ | |_) | (_| | (_| | (_| |  __/ |    | |__| (_) | (_| |  __/
+ |____/ \__,_|\__,_|\__, |\___|_|     \____\___/ \__,_|\___|
+                    |___/                                   
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<img src="./badger_logo.png" width="200"/>
+</div>
+
+<details>
+
+<summary>Table of Contents</summary>
+
+## Table of Contents
+
+* [Badger Code](#badger-code)
+* [Table of Contents](#table-of-contents)
+* [Intro](#intro)
+
+</details>
+
+## Intro
+
+> I'm a self-taught programmer who started programming in 6th grade to make games in Unity using C#. I've since moved on to take AP computer science classes. This [Homework repo](https://github.com/321BadgerCode/hw/tree/main) displays some of the programs I've made in my classes. This [ASCII Odyssey Repo](https://github.com/321BadgerCode/ascii_odyssey/tree/main) was my CPT submission for APCSP, which I got a `5` on the final for.
+
+Interested in:
+* Latex
+* Regex
+* C++
+* Python
+* Markdown
+* SQL
+* Parsers, Tokenizers, Compilers, Interpreters
+* AI/Machine Learning
+* Operating Systems
+
+---
+
+| | Good | !Good |
+| :---: | :---: | :---: |
+| Vim | :heavy_check_mark: | |
+| Emacs | | :x: |
+| Tabs | :heavy_check_mark: | |
+| Spaces | | :x: |
+| C++ | :heavy_check_mark: | |
+| Python | | :x: |
