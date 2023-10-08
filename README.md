@@ -3,12 +3,12 @@
 # Badger Code
 
 ```
-  ____            _                    ____          _      
- | __ )  __ _  __| | __ _  ___ _ __   / ___|___   __| | ___ 
+  ____            _                    ____          _
+ | __ )  __ _  __| | __ _  ___ _ __   / ___|___   __| | ___
  |  _ \ / _` |/ _` |/ _` |/ _ \ '__| | |   / _ \ / _` |/ _ \
  | |_) | (_| | (_| | (_| |  __/ |    | |__| (_) | (_| |  __/
  |____/ \__,_|\__,_|\__, |\___|_|     \____\___/ \__,_|\___|
-                    |___/                                   
+                    |___/
 ```
 
 <div align="center">
@@ -24,12 +24,19 @@
 * [Badger Code](#badger-code)
 * [Table of Contents](#table-of-contents)
 * [Intro](#intro)
+* [Preferences](#preferences)
 
 </details>
 
 ## Intro
 
 > I'm a self-taught programmer who started programming in 6th grade to make games in Unity using C#. I've since moved on to take AP computer science classes. This [Homework repo](https://github.com/321BadgerCode/hw/tree/main) displays some of the programs I've made in my classes. This [ASCII Odyssey Repo](https://github.com/321BadgerCode/ascii_odyssey/tree/main) was my CPT submission for APCSP, which I got a `5` on the final for.
+
+<details>
+
+<summary>Preferences</summary>
+
+### Preferences
 
 Interested in:
 * Latex
@@ -52,3 +59,4 @@ Interested in:
 | Spaces | | :x: |
 | C++ | :heavy_check_mark: | |
 | Python | | :x: |
+</details>
