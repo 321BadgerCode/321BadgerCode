@@ -39,7 +39,7 @@
 ### Preferences
 
 Interested in:
-* Latex
+* LaTeX
 * Regex
 * C++
 * Python
