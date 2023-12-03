@@ -58,5 +58,5 @@ Interested in:
 | Tabs | :heavy_check_mark: | |
 | Spaces | | :x: |
 | C++ | :heavy_check_mark: | |
-| Python | | :x: |
+| English | | :x: |
 </details>
