@@ -30,7 +30,7 @@
 
 ## Intro
 
-> I'm a self-taught programmer who started programming in 6th grade to make games in Unity using C#. I've since moved on to take AP computer science classes. This [Homework repo](https://github.com/321BadgerCode/hw/tree/main) displays some of the programs I've made in my classes. This [ASCII Odyssey Repo](https://github.com/321BadgerCode/ascii_odyssey/tree/main) was my CPT submission for APCSP, which I got a `5` on the final for.
+> I'm a self-taught programmer who started programming in 6th grade to make games in Unity using C#. I've since moved on to take AP computer science classes. This [Homework repo](https://github.com/321BadgerCode/hw/tree/main) displays some of the programs I've made in my classes. This [ASCII Odyssey Repo](https://github.com/321BadgerCode/ascii_odyssey/tree/main) was my CPT submission for APCSP, which I got a **5** on the final for.
 
 <details>
 
@@ -60,3 +60,36 @@ Interested in:
 | C++ | :heavy_check_mark: | |
 | English | | :x: |
 </details>
+
+### C++ Poem
+```
+In the realm of pointers, where memory dances,
+C++ unfolds, a symphony of chances.
+Semicolons like whispers, brace the blocks,
+Where algorithms sing, and logic unlocks.
+
+With #include commands, we summon our might,
+Libraries gather, lending their light.
+Classes and structs, the blueprints we hold,
+From which objects rise, stories untold.
+
+Loops iterate, weaving a thread so fine,
+Conditions branching, where destinies twine.
+Functions march forth, bearing their load,
+Returning their values, down logic's road.
+
+But syntax can trip, and errors descend,
+Compilers cry out, where logic must mend.
+Debug lines shimmer, a beacon in night,
+Guiding us onward, to code's shining light.
+
+From simple hello to worlds built anew,
+C++ empowers, dreams into view.
+With patience and passion, each line we craft,
+A digital poem, a world, a draft.
+
+So let the code flow, let the logic reign,
+In the language of C++, where beauty and pain
+Intertwine, a dance of the mind,
+Where imagination and reason we find.
+```
