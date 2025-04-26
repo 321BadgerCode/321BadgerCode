@@ -9,7 +9,7 @@
 | |_) |  / ___ \  | |_| | | |_| | | |___  |  _ <       | |___  | |_| | | |_| | | |___  |_| 
 |____/  /_/   \_\ |____/   \____| |_____| |_| \_\       \____|  \___/  |____/  |_____| (_)
 ```
-> Made with the text to ASCII art converter in ![my ASCII repo.](https://github.com/321BadgerCode/ascii.git)
+> Made with the text to ASCII art converter in ![my text to ASCII repo.](https://github.com/321BadgerCode/txt_2_ascii.git)
 
 <div align="center">
 	<img src="./badger_logo.png" width="200"/>
