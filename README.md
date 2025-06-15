@@ -45,6 +45,10 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 
 ## 🚀 Featured Projects
 
+<details>
+
+<summary>Categorized Projects</summary>
+
 <ol type="1">
 <div>
 	<li>💻 Developer Tools</li>
@@ -159,6 +163,8 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 	</ul>
 </div>
 </ol>
+
+</details>
 
 <details>
 
