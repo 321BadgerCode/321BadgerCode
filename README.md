@@ -21,56 +21,19 @@
 <p style="text-align: center; font-size: 14px; color: #888;">Made with the text to ASCII art converter in <a href="https://github.com/321BadgerCode/txt_2_ascii.git">my text to ASCII repo.</a></p>
 
 <h2>📚 Table of Contents</h2>
-<div class="toc">
-	<a href="#introduction">👋 Introduction</a>
-	<a href="#github-stats">📊 GitHub Stats</a>
-	<a href="#technologies--tools">🛠️ Technologies & Tools</a>
-	<a href="#featured-projects">🚀 Featured Projects</a>
-	<a href="#preferences">🤔 Preferences</a>
-	<a href="#c-poem">📓 C++ Poem</a>
-</div>
-
-<style>
-	.toc {
-		display: flex;
-		flex-wrap: wrap;
-		gap: 10px;
-		margin: 1em 0;
-	}
-	.toc a {
-		background: #1e1e1e;
-		color: #00ffff;
-		padding: 10px 16px;
-		text-decoration: none;
-		border-radius: 8px;
-		font-family: 'Segoe UI', sans-serif;
-		font-size: 14px;
-		box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
-		transition: all 0.2s ease;
-	}
-	.toc a:hover {
-		background: #00ffff;
-		color: #000;
-	}
-</style>
+<ul>
+	<li><a href="#introduction">👋 Introduction</a><br></li>
+	<li><a href="#github-stats">📊 GitHub Stats</a><br></li>
+	<li><a href="#featured-projects">🚀 Featured Projects</a><br></li>
+	<li><a href="#preferences">🤔 Preferences</a><br></li>
+	<li><a href="#c-poem">📓 C++ Poem</a></li>
+</ul>
 
 ## 👋 Introduction
 
 <p style="font-size: 18px; color: #bbb;">
-I'm a self-taught programmer who started programming in 6th grade to make games in <a href="https://unity.com/">Unity</a> using <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img style="vertical-align: middle;" src="./logos/c_sharp.png" width="35px"></a>. I've since moved on to take college level computer science classes. This <a href="https://github.com/321BadgerCode/hw/">homework repo.</a> displays some of the programs I've made in my classes. This <a href="https://github.com/321BadgerCode/ascii_odyssey/">ASCII Odyssey repo.</a> was my <abbr title="Create Performance Task">CPT</abbr> submission for <abbr title="Advanced Placement Computer Science Principles">APCSP</abbr>, which I got a <b>5</b> (<span style="font-size: 24px;" class="glow-stars">★★★★★</span>) on the final for.
+I'm a self-taught programmer who started programming in 6th grade to make games in <a href="https://unity.com/">Unity</a> using <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img style="vertical-align: middle;" src="./logos/c_sharp.png" width="35px"></a>. I've since moved on to take college level computer science classes. This <a href="https://github.com/321BadgerCode/hw/">homework repo.</a> displays some of the programs I've made in my classes. This <a href="https://github.com/321BadgerCode/ascii_odyssey/">ASCII Odyssey repo.</a> was my <abbr title="Create Performance Task">CPT</abbr> submission for <abbr title="Advanced Placement Computer Science Principles">APCSP</abbr>, which I got a <b>5</b> (<span style="font-size: 24px; background: linear-gradient(to right, #ffd700, #ff9900); -webkit-background-clip: text; color: transparent; display: inline-block;">★★★★★</span>) on the final for.
 </p>
-
-<style>
-	.glow-stars {
-		font-size: 36px;
-		color: gold;
-		animation: pulse 1.5s infinite;
-	}
-	@keyframes pulse {
-		0%, 100% { text-shadow: 0 0 4px #ffc, 0 0 8px gold; }
-		50% { text-shadow: 0 0 10px #ff0, 0 0 20px orange; }
-	}
-</style>
 
 ## 📊 GitHub Stats
 
@@ -79,37 +42,6 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 	<img src="./git_stats/top_langs.svg"><br>
 	<img src="./git_stats/activity_graph.svg">
 </center>
-
-## 🛠️ Technologies & Tools
-
-<img src="./logos/flat/bash.svg">
-<img src="./logos/flat/blender.svg">
-<img src="./logos/flat/c.svg">
-<img src="./logos/flat/cpp.svg">
-<img src="./logos/flat/csharp.svg">
-<img src="./logos/flat/docker.svg">
-<img src="./logos/flat/git.svg">
-<img src="./logos/flat/github.svg">
-<img src="./logos/flat/go.svg">
-<img src="./logos/flat/haskell.svg">
-<img src="./logos/flat/html.svg">
-<img src="./logos/flat/java.svg">
-<img src="./logos/flat/javascript.svg">
-<img src="./logos/flat/json.svg">
-<img src="./logos/flat/jupyter_notebook.svg">
-<img src="./logos/flat/latex.svg">
-<img src="./logos/flat/markdown.svg">
-<img src="./logos/flat/mysql.svg">
-<img src="./logos/flat/perl.svg">
-<img src="./logos/flat/php.svg">
-<img src="./logos/flat/python.svg">
-<img src="./logos/flat/rust.svg">
-<img src="./logos/flat/typescript.svg">
-<img src="./logos/flat/unity.svg">
-<img src="./logos/flat/vim.svg">
-<img src="./logos/flat/visual_studio_code.svg">
-<img src="./logos/flat/xml.svg">
-<img src="./logos/flat/yaml.svg">
 
 ## 🚀 Featured Projects
 
