@@ -1,9 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: center; position: relative;">
-	<img style="position: absolute; left: 0;" src="./badger_icon.ico">
-	<h1 style="margin: 0 auto;">Badger Code <img src="./hi.webp" width="25px"></h1>
+<img src="./badger_icon.ico" width="50">
+<div align="center">
+	<h1>Badger Code <img src="./hi.webp" width="25"></h1>
+	<h3>💻 Programmer | 🧠 AI Enthusiast | 🌱 Lifelong Learner</h3>
 </div>
-
-<center><h3>💻 Programmer | 🧠 AI Enthusiast | 🌱 Lifelong Learner</h3></center>
 
 <pre style="background: linear-gradient(to right, #000000, #008800, #00ff00);
 	text-align: center;
@@ -18,7 +17,7 @@
 | |_) |  / ___ \  | |_| | | |_| | | |___  |  _ <       | |___  | |_| | | |_| | | |___  |_| 
 |____/  /_/   \_\ |____/   \____| |_____| |_| \_\       \____|  \___/  |____/  |_____| (_) 
 </pre>
-<p style="text-align: center; font-size: 14px; color: #888;">Made with the text to ASCII art converter in <a href="https://github.com/321BadgerCode/txt_2_ascii.git">my text to ASCII repo.</a></p>
+<p align="center">Made with the text to ASCII art converter in <a href="https://github.com/321BadgerCode/txt_2_ascii.git">my text to ASCII repo.</a></p>
 
 <h2>📚 Table of Contents</h2>
 <ul>
