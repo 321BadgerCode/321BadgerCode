@@ -23,6 +23,7 @@
 <ul>
 	<li><a href="#-introduction">👋 Introduction</a><br></li>
 	<li><a href="#-github-stats">📊 GitHub Stats</a><br></li>
+	<li><a href="#-group-projects">👥 Group Projects</a><br></li>
 	<li><a href="#-featured-projects">🚀 Featured Projects</a><br></li>
 	<li><a href="#-preferences">🤔 Preferences</a><br></li>
 	<li><a href="#-c-poem">📓 C++ Poem</a></li>
@@ -31,7 +32,7 @@
 ## 👋 Introduction
 
 <p style="font-size: 18px; color: #bbb;">
-I'm a self-taught programmer who started programming in 6th grade to make games in <a href="https://unity.com/">Unity</a> using <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img style="vertical-align: middle;" src="./logos/c_sharp.png" width="35px"></a>. I've since moved on to take college level computer science classes. This <a href="https://github.com/321BadgerCode/hw/">homework repo.</a> displays some of the programs I've made in my classes. This <a href="https://github.com/321BadgerCode/ascii_odyssey/">ASCII Odyssey repo.</a> was my <abbr title="Create Performance Task">CPT</abbr> submission for <abbr title="Advanced Placement Computer Science Principles">APCSP</abbr>, which I got a <b>5</b> (<span style="font-size: 24px; background: linear-gradient(to right, #ffd700, #ff9900); -webkit-background-clip: text; color: transparent; display: inline-block;">★★★★★</span>) on the final for.
+I'm a self-taught programmer who started programming in 6th grade to make games in <a href="https://unity.com/">Unity</a> using <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img style="vertical-align: middle;" src="./logos/csharp.png" width="35px"></a>. I've since moved on to take college level computer science classes. This <a href="https://github.com/321BadgerCode/hw/">homework repo.</a> displays some of the programs I've made in my classes. This <a href="https://github.com/321BadgerCode/ascii_odyssey/">ASCII Odyssey repo.</a> was my <abbr title="Create Performance Task">CPT</abbr> submission for <abbr title="Advanced Placement Computer Science Principles">APCSP</abbr>, which I got a <b>5</b> (<span style="font-size: 24px; background: linear-gradient(to right, #ffd700, #ff9900); -webkit-background-clip: text; color: transparent; display: inline-block;">★★★★★</span>) on the final for.
 </p>
 
 ## 📊 GitHub Stats
@@ -41,6 +42,37 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 	<img src="./git_stats/top_langs.svg"><br>
 	<img src="./git_stats/activity_graph.svg">
 </center>
+
+## 👥 Group Projects
+
+<table>
+<tr>
+	<td>
+		<a href="https://github.com/321BadgerCode/uniconverter">
+			<img src="./projects/uniconverter.svg"/>
+		</a>
+		<br>
+		<a href = "https://github.com/321BadgerCode/">
+			<img src = "./profiles/321BadgerCode.svg" width="40px"/>
+		</a>
+		<a href = "https://github.com/logan-g-man/">
+			<img src = "./profiles/logan-g-man.svg" width="40px"/>
+		</a>
+	</td>
+	<td>
+		<a href="https://github.com/321BadgerCode/ascii_odyssey">
+			<img src="./projects/ascii_odyssey.svg"/>
+		</a>
+		<br>
+		<a href = "https://github.com/321BadgerCode/">
+			<img src = "./profiles/321BadgerCode.svg" width="40px"/>
+		</a>
+		<a href = "https://github.com/RadiatedGamer/">
+			<img src = "./profiles/RadiatedGamer.svg" width="40px"/>
+		</a>
+	</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
