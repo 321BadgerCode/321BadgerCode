@@ -21,11 +21,11 @@
 
 <h2>📚 Table of Contents</h2>
 <ul>
-	<li><a href="#introduction">👋 Introduction</a><br></li>
-	<li><a href="#github-stats">📊 GitHub Stats</a><br></li>
-	<li><a href="#featured-projects">🚀 Featured Projects</a><br></li>
-	<li><a href="#preferences">🤔 Preferences</a><br></li>
-	<li><a href="#c-poem">📓 C++ Poem</a></li>
+	<li><a href="#-introduction">👋 Introduction</a><br></li>
+	<li><a href="#-github-stats">📊 GitHub Stats</a><br></li>
+	<li><a href="#-featured-projects">🚀 Featured Projects</a><br></li>
+	<li><a href="#-preferences">🤔 Preferences</a><br></li>
+	<li><a href="#-c-poem">📓 C++ Poem</a></li>
 </ul>
 
 ## 👋 Introduction
