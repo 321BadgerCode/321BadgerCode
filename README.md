@@ -22,18 +22,73 @@
 <h2>📚 Table of Contents</h2>
 <ul>
 	<li><a href="#-introduction">👋 Introduction</a><br></li>
+	<li><a href="#-education">🏫 Education</a><br></li>
 	<li><a href="#-github-stats">📊 GitHub Stats</a><br></li>
 	<li><a href="#-group-projects">👥 Group Projects</a><br></li>
 	<li><a href="#-featured-projects">🚀 Featured Projects</a><br></li>
-	<li><a href="#-preferences">🤔 Preferences</a><br></li>
+	<li><a href="#-skills">💪 Skills</a><br></li>
 	<li><a href="#-c-poem">📓 C++ Poem</a></li>
 </ul>
 
 ## 👋 Introduction
 
-<p style="font-size: 18px; color: #bbb;">
-I'm a self-taught programmer who started programming in 6th grade to make games in <a href="https://unity.com/">Unity</a> using <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img style="vertical-align: middle;" src="./logos/csharp.png" width="35px"></a>. I've since moved on to take college level computer science classes. This <a href="https://github.com/321BadgerCode/hw/">homework repo.</a> displays some of the programs I've made in my classes. This <a href="https://github.com/321BadgerCode/ascii_odyssey/">ASCII Odyssey repo.</a> was my <abbr title="Create Performance Task">CPT</abbr> submission for <abbr title="Advanced Placement Computer Science Principles">APCSP</abbr>, which I got a <b>5</b> (<span style="font-size: 24px; background: linear-gradient(to right, #ffd700, #ff9900); -webkit-background-clip: text; color: transparent; display: inline-block;">★★★★★</span>) on the final for.
-</p>
+I'm a self-taught programmer who started programming in 6th grade to make games in <a href="https://unity.com/">Unity</a> using <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img align="absmiddle" src="./logos/csharp.png" width="30"></a>. I've since moved on to take college level computer science classes. This <a href="https://github.com/321BadgerCode/hw/">homework repo.</a> displays some of the programs I've made in my classes. This <a href="https://github.com/321BadgerCode/ascii_odyssey/">ASCII Odyssey repo.</a> was my <abbr title="Create Performance Task">CPT</abbr> submission for <abbr title="Advanced Placement Computer Science Principles">APCSP</abbr>, which I got a <b>5</b> (<span style="font-size: 24px; background: linear-gradient(to right, #ffd700, #ff9900); -webkit-background-clip: text; color: transparent; display: inline-block;">★★★★★</span>) on the final for.
+
+## 🏫 Education
+
+<table>
+<tr>
+	<th>Course Name</th>
+	<th>Course Number</th>
+	<th>Year</th>
+	<th>Grade</th>
+</tr>
+<tr>
+	<td>AP Computer Science Principles</td>
+	<td>-</td>
+	<td>2022</td>
+	<td>A</td>
+</tr>
+<tr>
+	<td>INTRO TO C++ PROGRAM</td>
+	<td>COP2334</td>
+	<td>2024</td>
+	<td>A</td>
+</tr>
+<tr>
+	<td>INTRO TO JAVA PROG</td>
+	<td>COP2800</td>
+	<td>2024</td>
+	<td>A</td>
+</tr>
+<tr>
+	<td>SYST ANLYS & DESIGN</td>
+	<td>CIS23215</td>
+	<td>2025</td>
+	<td>A</td>
+</tr>
+<tr>
+	<td>C# PROGRAMMING</td>
+	<td>COP2360</td>
+	<td>2025</td>
+	<td>A</td>
+</tr>
+</table>
+
+> [!NOTE]
+> I was a TA (teaching assistant) for the `INTRO TO C++ PROGRAM` course. Furthermore, I have been named to the President's List at the college at which I took the (non-AP) computer science courses listed above, for all semesters that I attended.
+
+<details>
+
+<summary>What is the President's List?</summary>
+
+| List | Credits | GPA |
+|:---:|:---:|:---:|
+|$\textcolor{green}{\text{President's List}}$|≥ 6|4.00|
+|Honors List|≥ 6|3.75 - 3.99|
+|Dean's List|≥ 6|3.25 - 3.74|
+
+</details>
 
 ## 📊 GitHub Stats
 
@@ -43,7 +98,9 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 	<img src="./git_stats/activity_graph.svg">
 </center>
 
-## 👥 Group Projects
+## 🚀 Featured Projects
+
+### 👥 Group Projects
 
 <table>
 <tr>
@@ -73,8 +130,6 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 	</td>
 </tr>
 </table>
-
-## 🚀 Featured Projects
 
 <details>
 
@@ -197,11 +252,24 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 
 </details>
 
+## 💪 Skills
+
+**Levels**: Proficient, Intermediate, Beginner
+
+- C++ (Proficient)
+- C# (Proficient)
+- Python (Proficient)
+- Java (Intermediate)
+- JavaScript (Proficient)
+- HTML/CSS (Proficient)
+- Bash (Proficient)
+- SQL (Intermediate)
+- Perl (Proficient)
+- Rust (Intermediate)
+
 <details>
 
 <summary>Preferences</summary>
-
-### 🤔 Preferences
 
 Interested in:
 - Game Development
@@ -220,7 +288,12 @@ Interested in:
 | English | | :x: |
 </details>
 
+<details>
+
+<summary>C++ Poem</summary>
+
 ### 📓 C++ Poem
+
 ```
 In the realm of pointers, where memory dances,
 C++ unfolds, a symphony of chances.
@@ -252,3 +325,4 @@ In the language of C++, where beauty and pain
 Intertwine, a dance of the mind,
 Where imagination and reason we find.
 ```
+</details>
