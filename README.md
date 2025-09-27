@@ -19,12 +19,14 @@
 </pre>
 <p align="center">Made with the text to ASCII art converter in <a href="https://github.com/321BadgerCode/txt_2_ascii.git">my text to ASCII repo.</a></p>
 
+<center>
+	<img src="./git_stats/trophies.svg">
+</center>
+
 <h2>📚 Table of Contents</h2>
 <ul>
 	<li><a href="#-introduction">👋 Introduction</a><br></li>
 	<li><a href="#-education">🏫 Education</a><br></li>
-	<li><a href="#-github-stats">📊 GitHub Stats</a><br></li>
-	<li><a href="#-group-projects">👥 Group Projects</a><br></li>
 	<li><a href="#-featured-projects">🚀 Featured Projects</a><br></li>
 	<li><a href="#-skills">💪 Skills</a><br></li>
 	<li><a href="#-c-poem">📓 C++ Poem</a></li>
@@ -89,14 +91,6 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 |Dean's List|≥ 6|3.25 - 3.74|
 
 </details>
-
-## 📊 GitHub Stats
-
-<center>
-	<img src="./git_stats/trophies.svg"><br>
-	<img src="./git_stats/top_langs.svg"><br>
-	<img src="./git_stats/activity_graph.svg">
-</center>
 
 ## 🚀 Featured Projects
 
@@ -254,6 +248,8 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 
 ## 💪 Skills
 
+<img src="./git_stats/top_langs.svg">
+
 **Levels**: Proficient, Intermediate, Beginner
 
 - C++ (Proficient)
@@ -266,27 +262,6 @@ I'm a self-taught programmer who started programming in 6th grade to make games 
 - SQL (Intermediate)
 - Perl (Proficient)
 - Rust (Intermediate)
-
-<details>
-
-<summary>Preferences</summary>
-
-Interested in:
-- Game Development
-- Parsers, Tokenizers, Compilers, Interpreters
-- AI/Machine Learning
-
----
-
-| | Good | !Good |
-| :---: | :---: | :---: |
-| Vim | :heavy_check_mark: | |
-| Emacs | | :x: |
-| Tabs | :heavy_check_mark: | |
-| Spaces | | :x: |
-| C++ | :heavy_check_mark: | |
-| English | | :x: |
-</details>
 
 <details>
 
